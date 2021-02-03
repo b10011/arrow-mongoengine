@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "mongoengine-arrow"
-version = "0.1.0"
+version = "0.1.1"
 description = "Arrow datetime support for MongoEngine"
 authors = ["Niko Järvinen <nbjarvinen@gmail.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.6"
