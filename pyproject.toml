@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mongoengine-arrow"
-version = "0.1.1"
+version = "0.1.2"
 description = "Arrow datetime support for MongoEngine"
 authors = ["Niko Järvinen <nbjarvinen@gmail.com>"]
 readme = "README.md"
